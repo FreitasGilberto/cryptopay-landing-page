@@ -1,4 +1,4 @@
-# CryptoPay (Landing Page Ligh/Dark Mode)
+# CryptoPay (Landing Page Light/Dark Mode)
 
 _Una landing page sencilla hecha con HTML, CSS y JavaScript._
 
